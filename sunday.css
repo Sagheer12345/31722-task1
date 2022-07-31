@@ -1,0 +1,24 @@
+.body{
+    background-color: darkgrey;
+    text-align: center;
+    margin-top: 100px;
+}
+th{
+    border: solid;
+    color: black;
+    background-color: darkgrey;
+    height: 30px;
+}
+td{
+    border: solid;
+    color: black;
+    /* text-align: center; */
+}
+table{
+    padding-left: 420px;
+    
+}
+h2{
+    
+    padding-left: 400px;
+}
